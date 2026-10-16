@@ -134,6 +134,7 @@ _More community skills coming soon! Submit a PR to add your skill._
 ### Tools
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Convert documentation websites into Claude Skills
+- **[devohmycode/skills-atlas](https://github.com/devohmycode/skills-atlas)** - Browse public skills by theme in a terminal tree or local web UI, then install or uninstall several at once through `npx skills`
 
 ## ✏️ Creating Your First Skill
 
